@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bk52/react-tailwind-components/static/css/main.14fe4e55.css",
+    "main.js": "/bk52/react-tailwind-components/static/js/main.3f36248a.js",
+    "static/media/delicious.gif": "/bk52/react-tailwind-components/static/media/delicious.9a76a313a55fe85c9ebe.gif",
+    "static/media/BKLogo.png": "/bk52/react-tailwind-components/static/media/BKLogo.ea89a4065a972365adcc.png",
+    "static/media/React.png": "/bk52/react-tailwind-components/static/media/React.5dcbe582d81196e1fb4b.png",
+    "static/media/TailwindCss.png": "/bk52/react-tailwind-components/static/media/TailwindCss.da1247e1bbe41267feaf.png",
+    "index.html": "/bk52/react-tailwind-components/index.html",
+    "main.14fe4e55.css.map": "/bk52/react-tailwind-components/static/css/main.14fe4e55.css.map",
+    "main.3f36248a.js.map": "/bk52/react-tailwind-components/static/js/main.3f36248a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fe4e55.css",
+    "static/js/main.3f36248a.js"
+  ]
+}
