@@ -1,0 +1,31 @@
+.switch {
+    @apply relative inline-block w-12 h-5
+}
+
+.switch input{
+    @apply opacity-0 w-0 h-0
+}
+  
+.slider{
+    @apply absolute cursor-pointer inset-0 bg-day bg-cover transition-all duration-400 ease-in
+}
+  
+.slider:before {
+    @apply absolute content-[''] w-4 h-4 left-0.5 bottom-0.5 bg-sun bg-cover transition-all duration-400 ease-in
+}
+  
+input:checked + .slider {
+    @apply bg-night bg-cover
+}
+  
+input:checked + .slider:before {
+    @apply translate-x-7 bg-moon bg-cover
+}
+  
+.slider.round {
+    @apply rounded-full
+}
+  
+.slider.round:before {
+    @apply rounded-[50%]
+}

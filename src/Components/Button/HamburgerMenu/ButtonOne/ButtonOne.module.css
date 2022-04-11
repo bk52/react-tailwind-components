@@ -1,0 +1,31 @@
+.navIcon{
+    @apply relative w-5 h-5 rotate-0 cursor-pointer transition-all duration-500 ease-in-out
+}
+
+.navIcon span{
+    @apply block absolute h-1 w-full rounded-lg opacity-100 left-0 rotate-0 transition-all duration-250 ease-in-out
+}
+
+.navIcon span:nth-child(1) {
+    @apply top-0
+}
+  
+.navIcon span:nth-child(2) {
+    @apply top-2
+}
+  
+.navIcon span:nth-child(3) {
+    @apply top-4
+}
+
+.navIcon.open span:nth-child(1) {
+    @apply top-2 rotate-135
+}
+
+.navIcon.open span:nth-child(2) {
+    @apply opacity-0 -left-16
+}
+
+.navIcon.open span:nth-child(3) {
+    @apply top-2 -rotate-135
+}
