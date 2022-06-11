@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/react-tailwind-components/static/css/main.14fe4e55.css",
-    "main.js": "/react-tailwind-components/static/js/main.260ec4d3.js",
+    "main.css": "/react-tailwind-components/static/css/main.7d7629c4.css",
+    "main.js": "/react-tailwind-components/static/js/main.803afca4.js",
     "static/media/delicious.gif": "/react-tailwind-components/static/media/delicious.9a76a313a55fe85c9ebe.gif",
     "static/media/BKLogo.png": "/react-tailwind-components/static/media/BKLogo.ea89a4065a972365adcc.png",
     "static/media/React.png": "/react-tailwind-components/static/media/React.5dcbe582d81196e1fb4b.png",
     "static/media/TailwindCss.png": "/react-tailwind-components/static/media/TailwindCss.da1247e1bbe41267feaf.png",
+    "static/media/night.jpg": "/react-tailwind-components/static/media/night.81b6087ab6f1f9b11e6c.jpg",
+    "static/media/day.jpg": "/react-tailwind-components/static/media/day.3fa8ea757aaa4ffcb0f7.jpg",
+    "static/media/moon.png": "/react-tailwind-components/static/media/moon.7b26d96ddb1066f74b5f.png",
+    "static/media/sun.png": "/react-tailwind-components/static/media/sun.f4e673730d4dcf083b45.png",
     "index.html": "/react-tailwind-components/index.html",
-    "main.14fe4e55.css.map": "/react-tailwind-components/static/css/main.14fe4e55.css.map",
-    "main.260ec4d3.js.map": "/react-tailwind-components/static/js/main.260ec4d3.js.map"
+    "main.7d7629c4.css.map": "/react-tailwind-components/static/css/main.7d7629c4.css.map",
+    "main.803afca4.js.map": "/react-tailwind-components/static/js/main.803afca4.js.map"
   },
   "entrypoints": [
-    "static/css/main.14fe4e55.css",
-    "static/js/main.260ec4d3.js"
+    "static/css/main.7d7629c4.css",
+    "static/js/main.803afca4.js"
   ]
 }
